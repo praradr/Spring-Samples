@@ -6,5 +6,4 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @Configuration
 @EnableJpaRepositories(basePackages={"com.guitar.repository"})
 public class JpaConfiguration {
-
 }
